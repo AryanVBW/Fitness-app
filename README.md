@@ -1,4 +1,5 @@
 # Fitness Tracker App
+![app_logo](https://github.com/user-attachments/assets/dc658b73-41c7-426b-9f7e-87af9ac6f11d)
 
 A moderate-level fitness tracking Android app (Java) supporting heart rate, steps, calories, dashboard, user profile, and notifications. Compatible with Android 14, 15, 16.
 
