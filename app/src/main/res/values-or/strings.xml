@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">ଗୋଟିଏ ବ୍ରାଉଜର୍ ଚୟନ କରନ୍ତୁ, ଯାହା ଏହି ଆପ୍‍କୁ ସମର୍ଥନ କରିଥାଏ:</string>
+    <string name="choose_host_browser_dialog_quit">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="choose_host_browser_dialog_title">%1$s ଏକ ୱେବ୍ ବ୍ରାଉଜର୍ ଆବଶ୍ୟକ କରେ</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+ଅସମର୍ଥିତ"</string>
+    <string name="install_host_browser_dialog_install_button">ଇନ୍‍ଷ୍ଟଲ୍ କରନ୍ତୁ</string>
+    <string name="install_host_browser_dialog_title">ନିମ୍ନୋକ୍ତ ଆପ୍ %1$s ଆବଶ୍ୟକ କରୁଛି:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">ସାଇଟ୍ ସେଟିଂସ୍ ଖୋଲିବାକୁ, %1$s ଅପଡେଟ୍ କିମ୍ବା ପୁଣି ଇନଷ୍ଟଲ୍ କରନ୍ତୁ</string>
+    <string name="notification_channel_name">ସାଧାରଣ</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">ସାଇଟ୍‍ ସେଟିଂସ୍‌</string>
+    <string name="site_settings_short_label">ସାଇଟ୍‍ ସେଟିଂସ୍‌</string>
+</resources>

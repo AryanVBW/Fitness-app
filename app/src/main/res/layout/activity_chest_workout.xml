@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222222">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#222222">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#222222"
+            app:title="Chest Workout Plan"
+            app:titleTextColor="#FFFFFF"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Header Image -->
+            <ImageView
+                android:id="@+id/headerImage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/chest_workout_header"
+                android:contentDescription="Chest Workout"
+                android:layout_marginBottom="16dp"/>
+
+            <!-- Workout Introduction -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="COMPLETE CHEST WORKOUT"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginBottom="16dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="This comprehensive chest workout targets all areas of your chest muscles for maximum growth and definition. Follow the exercises in order for best results."
+                android:textColor="#CCCCCC"
+                android:textSize="16sp"
+                android:layout_marginBottom="24dp"/>
+
+            <!-- Exercise 1 -->
+            <include layout="@layout/item_exercise_bench_press" />
+
+            <!-- Exercise 2 -->
+            <include layout="@layout/item_exercise_incline_press" />
+
+            <!-- Exercise 3 -->
+            <include layout="@layout/item_exercise_chest_fly" />
+
+            <!-- Exercise 4 -->
+            <include layout="@layout/item_exercise_pushups" />
+
+            <!-- Exercise 5 -->
+            <include layout="@layout/item_exercise_cable_crossover" />
+
+            <!-- Workout Complete Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/completeWorkoutButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="COMPLETE WORKOUT"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:padding="16dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="24dp"
+                app:cornerRadius="8dp"
+                android:backgroundTint="#E91E63"/>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

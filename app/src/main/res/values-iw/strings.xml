@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">יש לבחור דפדפן שתומך באפליקציה הזו:</string>
+    <string name="choose_host_browser_dialog_quit">סגירה</string>
+    <string name="choose_host_browser_dialog_title">האפליקציה %1$s מחייבת שימוש בדפדפן אינטרנט</string>
+    <string name="host_browser_item_not_supporting_webapks">"‏%1$s
+לא נתמך"</string>
+    <string name="install_host_browser_dialog_install_button">התקנה</string>
+    <string name="install_host_browser_dialog_title">האפליקציה %1$s מחייבת את האפליקציה הבאה:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">כדי לפתוח את הגדרות האתר יש לעדכן או להתקין מחדש את דפדפן %1$s</string>
+    <string name="notification_channel_name">כללי</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">הגדרות לאתרים</string>
+    <string name="site_settings_short_label">הגדרות לאתרים</string>
+</resources>

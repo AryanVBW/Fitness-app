@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FOR ALL LEVELS"
+            android:textStyle="bold"
+            android:textColor="#FFF"
+            android:textSize="28sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Beginner Card -->
+        <include layout="@layout/level_card_beginner" />
+        <!-- Intermediate Card -->
+        <include layout="@layout/level_card_intermediate" />
+        <!-- Advance Card -->
+        <include layout="@layout/level_card_advance" />
+
+    </LinearLayout>
+</ScrollView>

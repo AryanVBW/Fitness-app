@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Aukeratu aplikazio honekin bateragarria den arakatzaile bat:</string>
+    <string name="choose_host_browser_dialog_quit">ITXI</string>
+    <string name="choose_host_browser_dialog_title">Web-arakatzaile bat behar du %1$s aplikazioak</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+Ez da bateragarria"</string>
+    <string name="install_host_browser_dialog_install_button">INSTALATU</string>
+    <string name="install_host_browser_dialog_title">Aplikazio hau behar du %1$s aplikazioak:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">Webgunearen ezarpenak irekitzeko, eguneratu edo instalatu berriro %1$s</string>
+    <string name="notification_channel_name">Orokorra</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">Webgunearen ezarpenak</string>
+    <string name="site_settings_short_label">Webgunearen ezarpenak</string>
+</resources>

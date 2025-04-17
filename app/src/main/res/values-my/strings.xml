@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">ဤအက်ပ်ကို ပံ့ပိုးပေးသည့် ဘရောင်ဇာတစ်ခု ရွေးပါ−</string>
+    <string name="choose_host_browser_dialog_quit">ပိတ်ရန်</string>
+    <string name="choose_host_browser_dialog_title">%1$s သည် ဝဘ်ဘရောင်ဇာတစ်ခု လိုအပ်ပါသည်</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+ပံ့ပိုးမထားပါ"</string>
+    <string name="install_host_browser_dialog_install_button">တပ်ဆင်မည်</string>
+    <string name="install_host_browser_dialog_title">%1$s သည် အောက်ပါအက်ပ်တို့ကို လိုအပ်ပါသည်−</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">ဝဘ်ဆိုက်ဆက်တင်များကို ဖွင့်ရန် %1$s ကို အပ်ဒိတ်လုပ်ပါ (သို့) ပြန်ထည့်သွင်းပါ</string>
+    <string name="notification_channel_name">အထွေထွေ</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">ဝက်ဆိုက် ဆက်တင်များ</string>
+    <string name="site_settings_short_label">ဝက်ဆိုက် ဆက်တင်များ</string>
+</resources>

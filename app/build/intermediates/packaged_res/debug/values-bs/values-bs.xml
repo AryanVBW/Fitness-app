@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Odaberite preglednik koji podržava ovu aplikaciju:</string>
+    <string name="choose_host_browser_dialog_quit">ZATVORI</string>
+    <string name="choose_host_browser_dialog_title">Za aplikaciju %1$s je potreban web preglednik</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+Nije podržan"</string>
+    <string name="install_host_browser_dialog_install_button">INSTALIRAJ</string>
+    <string name="install_host_browser_dialog_title">%1$s zahtijeva sljedeću aplikaciju:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">Da otvorite postavke web lokacije, ažurirajte ili ponovo instalirajte preglednik %1$s</string>
+    <string name="notification_channel_name">Opće</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">Postavke web lokacije</string>
+    <string name="site_settings_short_label">Postavke web lokacije</string>
+</resources>

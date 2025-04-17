@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">ເລືອກໂປຣແກຣມທ່ອງເວັບທີ່ຮອງຮັບແອັບນີ້:</string>
+    <string name="choose_host_browser_dialog_quit">ປິດ</string>
+    <string name="choose_host_browser_dialog_title">%1$s ຈຳເປັນຕ້ອງມີໂປຣແກຣມທ່ອງເວັບ</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+ບໍ່ຮອງຮັບ"</string>
+    <string name="install_host_browser_dialog_install_button">​ຕິດ​ຕັ້ງ</string>
+    <string name="install_host_browser_dialog_title">%1$s ຈຳເປັນຕ້ອງມີແອັບຕໍ່ໄປນີ້:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">ເພື່ອເປີດການຕັ້ງຄ່າເວັບໄຊ, ກະລຸນາອັບເດດ ຫຼື ຕິດຕັ້ງ %1$s ຄືນໃໝ່</string>
+    <string name="notification_channel_name">ທົ່ວໄປ</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">ການຕັ້ງຄ່າເວັບໄຊທ໌</string>
+    <string name="site_settings_short_label">ການຕັ້ງຄ່າເວັບໄຊທ໌</string>
+</resources>

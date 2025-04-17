@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.fitnesstracker.app-mergeDebugResources-29:/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vivek-w/Desktop/fitness app/app/src/main/res/values-mdpi/bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                },
+                {
+                    "source": "/Users/vivek-w/Desktop/fitness app/app/src/main/res/values-mdpi/drawables.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,117,179,241",
+                        "endColumns": "61,61,61,61",
+                        "endOffsets": "112,174,236,298"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "109,171,233,295",
+                        "endColumns": "61,61,61,61",
+                        "endOffsets": "166,228,290,352"
+                    }
+                }
+            ]
+        }
+    ]
+}

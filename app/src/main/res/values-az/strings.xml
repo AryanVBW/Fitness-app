@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Bu tətbiqi dəstəkləyən brauzer seçin:</string>
+    <string name="choose_host_browser_dialog_quit">BAĞLAYIN</string>
+    <string name="choose_host_browser_dialog_title">%1$s veb brauzer tələb edir</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+Dəstəklənmir"</string>
+    <string name="install_host_browser_dialog_install_button">QURAŞDIRIN</string>
+    <string name="install_host_browser_dialog_title">%1$s aşağıdakı tətbiqi tələb edir:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">Sayt ayarlarını açmaq üçün %1$s brauzerini güncəlləyin və ya quraşdırın</string>
+    <string name="notification_channel_name">Ümumi</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">Sayt ayarları</string>
+    <string name="site_settings_short_label">Sayt ayarları</string>
+</resources>

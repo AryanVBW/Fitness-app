@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">このアプリをサポートしているブラウザを選択してください:</string>
+    <string name="choose_host_browser_dialog_quit">閉じる</string>
+    <string name="choose_host_browser_dialog_title">%1$s を使用するにはウェブブラウザが必要です</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+サポートされていません"</string>
+    <string name="install_host_browser_dialog_install_button">インストール</string>
+    <string name="install_host_browser_dialog_title">%1$s を使用するには次のアプリが必要です:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">サイトの設定を開くには、%1$s を更新または再インストールしてください</string>
+    <string name="notification_channel_name">全般</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">サイトの設定</string>
+    <string name="site_settings_short_label">サイトの設定</string>
+</resources>

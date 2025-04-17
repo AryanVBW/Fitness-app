@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="browser_icon" />
+    <item type="id" name="browser_name" />
+    <item type="id" name="splashscreen_icon_view" />
+    <item type="id" name="webapp_splash_screen_icon" />
+    <item type="id" name="webapp_splash_screen_layout" />
+    <item type="id" name="webapp_splash_screen_name" />
+    <item type="id" name="webapp_splash_space" />
+</resources>

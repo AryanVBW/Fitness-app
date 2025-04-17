@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Chagua kivinjari kinachoweza kutumia programu hii:</string>
+    <string name="choose_host_browser_dialog_quit">FUNGA</string>
+    <string name="choose_host_browser_dialog_title">%1$s inahitaji kivinjari</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+Haitumiki"</string>
+    <string name="install_host_browser_dialog_install_button">SAKINISHA</string>
+    <string name="install_host_browser_dialog_title">%1$s inahitaji programu ifuatayo:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">Ili uweze kufungua mipangilio ya tovuti, sasisha au usakinishe %1$s upya</string>
+    <string name="notification_channel_name">Jumla</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">Mipangilio ya tovuti</string>
+    <string name="site_settings_short_label">Mipangilio ya tovuti</string>
+</resources>

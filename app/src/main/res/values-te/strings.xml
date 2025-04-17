@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">ఈ యాప్‌న‌కు మద్దతిచ్చే బ్రౌజర్‌ను ఎంచుకోండి:</string>
+    <string name="choose_host_browser_dialog_quit">మూసివేయండి</string>
+    <string name="choose_host_browser_dialog_title">%1$sకు వెబ్ బ్రౌజర్ అవసరం</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+మద్దతు లేదు"</string>
+    <string name="install_host_browser_dialog_install_button">ఇన్‌స్టాల్ చేయి</string>
+    <string name="install_host_browser_dialog_title">%1$sకి ఈ యాప్ అవసరం:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">సైట్ సెట్టింగ్‌లను తెరవడానికి, %1$sను అప్‌డేట్ లేదా మళ్లీ ఇన్‌స్టాల్ చేయండి</string>
+    <string name="notification_channel_name">సాధారణం</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">సైట్ సెట్టింగ్‌లు</string>
+    <string name="site_settings_short_label">సైట్ సెట్టింగ్‌లు</string>
+</resources>

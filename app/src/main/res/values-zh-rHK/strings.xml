@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">選擇支援此應用程式的瀏覽器：</string>
+    <string name="choose_host_browser_dialog_quit">關閉</string>
+    <string name="choose_host_browser_dialog_title">必須透過網絡瀏覽器啟動 %1$s</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+不支援的瀏覽器"</string>
+    <string name="install_host_browser_dialog_install_button">安裝</string>
+    <string name="install_host_browser_dialog_title">必須透過下列應用程式啟動 %1$s：</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">如要開啟網站設定，請更新或重新安裝 %1$s</string>
+    <string name="notification_channel_name">一般</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">網站設定</string>
+    <string name="site_settings_short_label">網站設定</string>
+</resources>
