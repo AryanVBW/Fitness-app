@@ -23,8 +23,8 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="false"
-        android:icon="@mipmap/ic_launcher"
-        android:label="Fitness Tracker"
+        android:icon="@drawable/logo"
+        android:label="@string/name"
         android:theme="@style/Theme.FitnessTracker" >
         <activity
             android:name="com.example.fitnesstracker.MainActivity"
@@ -35,6 +35,24 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.fitnesstracker.DietActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.fitnesstracker.ReportActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.fitnesstracker.ChestWorkoutDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.fitnesstracker.PushupsDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.fitnesstracker.CardioDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.fitnesstracker.ChestWorkoutActivity"
+            android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

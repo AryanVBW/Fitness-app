@@ -8,8 +8,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="Fitness Tracker"
+        android:icon="@drawable/logo"
+        android:label="@string/name"
         android:theme="@style/Theme.FitnessTracker">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
@@ -17,6 +17,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DietActivity" android:exported="false" />
+        <activity android:name=".ReportActivity" android:exported="false" />
+        <activity android:name=".ChestWorkoutDetailActivity" android:exported="false" />
+        <activity android:name=".PushupsDetailActivity" android:exported="false" />
+        <activity android:name=".CardioDetailActivity" android:exported="false" />
+        <activity android:name=".ChestWorkoutActivity" android:exported="false" />
     </application>
 
 </manifest>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.android.material:material:1.11.0] /Users/vivek-w/.gradle/caches/8.10/transforms/28fdb009c87f85c4401e81ab0dc9c24e/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vivek-w/.gradle/caches/8.10/transforms/53ac94a1f5b6af5fa140e39232095b5e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/vivek-w/.gradle/caches/8.10/transforms/bfda8078e572cce17b0bfd959dce8970/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -66,8 +66,8 @@ ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:7
 	android:name
 		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:7:22-74
 application
-ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:9:5-20:19
-INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:9:5-20:19
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:9:5-26:19
+INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:9:5-26:19
 MERGED from [com.google.android.material:material:1.11.0] /Users/vivek-w/.gradle/caches/8.10/transforms/28fdb009c87f85c4401e81ab0dc9c24e/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /Users/vivek-w/.gradle/caches/8.10/transforms/28fdb009c87f85c4401e81ab0dc9c24e/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vivek-w/.gradle/caches/8.10/transforms/53ac94a1f5b6af5fa140e39232095b5e/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -89,9 +89,9 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vivek-w/.gradle/cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /Users/vivek-w/.gradle/caches/8.10/transforms/d6e907c7b683018873e123f23d055136/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:12:9-37
 	android:icon
-		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:11:9-38
 	android:allowBackup
 		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
@@ -112,6 +112,42 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.fitnesstracker.DietActivity
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:20:9-75
+	android:exported
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:20:48-72
+	android:name
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.example.fitnesstracker.ReportActivity
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:21:9-77
+	android:exported
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:21:50-74
+	android:name
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:21:19-49
+activity#com.example.fitnesstracker.ChestWorkoutDetailActivity
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:22:9-89
+	android:exported
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:22:62-86
+	android:name
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:22:19-61
+activity#com.example.fitnesstracker.PushupsDetailActivity
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:23:9-84
+	android:exported
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:23:57-81
+	android:name
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:23:19-56
+activity#com.example.fitnesstracker.CardioDetailActivity
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:24:9-83
+	android:exported
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:24:56-80
+	android:name
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:24:19-55
+activity#com.example.fitnesstracker.ChestWorkoutActivity
+ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:25:9-83
+	android:exported
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:25:56-80
+	android:name
+		ADDED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:25:19-55
 uses-sdk
 INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml

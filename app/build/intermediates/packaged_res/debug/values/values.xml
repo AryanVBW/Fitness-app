@@ -6,6 +6,7 @@
     <color name="black">#000000</color>
     <color name="dark_background_color_non_empty">#fff8f8f8</color>
     <color name="green_500">#4CAF50</color>
+    <color name="ic_launcher_background">#222222</color>
     <color name="purple_500">#6200EE</color>
     <color name="purple_700">#3700B3</color>
     <color name="teal_200">#03DAC5</color>
@@ -43,10 +44,10 @@
 Unsupported"</string>
     <string name="install_host_browser_dialog_install_button">INSTALL</string>
     <string name="install_host_browser_dialog_title">%1$s requires the following app:</string>
-    <string name="name">Core Strength</string>
+    <string name="name">CORE Workout</string>
     <string name="no_support_for_launch_settings">To open site settings, update or reinstall %1$s</string>
     <string name="notification_channel_name">General</string>
-    <string name="short_name">Arise Aditya</string>
+    <string name="short_name">CORE Workout</string>
     <string name="shortcut_1_name">Shortcut 1</string>
     <string name="shortcut_1_short_name">Shortcut 1</string>
     <string name="shortcut_2_name">Shortcut 2</string>
@@ -57,6 +58,14 @@ Unsupported"</string>
     <string name="shortcut_4_short_name">Shortcut 4</string>
     <string name="site_settings_long_label">Site settings</string>
     <string name="site_settings_short_label">Site settings</string>
+    <style name="CalendarDateTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="CalendarWeekTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:textColor">#AAAAAA</item>
+        <item name="android:textSize">12sp</item>
+    </style>
     <style name="SplashTheme" parent="@android:style/Theme.Holo.Light">
         <item name="android:windowBackground">@color/background_color_non_empty</item>
         <item name="android:windowNoTitle">true</item>

@@ -7,10 +7,10 @@
 Unsupported"</string>
     <string name="install_host_browser_dialog_install_button">INSTALL</string>
     <string name="install_host_browser_dialog_title">%1$s requires the following app:</string>
-    <string name="name">Core Strength</string>
+    <string name="name">CORE Workout</string>
     <string name="no_support_for_launch_settings">To open site settings, update or reinstall %1$s</string>
     <string name="notification_channel_name">General</string>
-    <string name="short_name">Arise Aditya</string>
+    <string name="short_name">CORE Workout</string>
     <string name="shortcut_1_name">Shortcut 1</string>
     <string name="shortcut_1_short_name">Shortcut 1</string>
     <string name="shortcut_2_name">Shortcut 2</string>

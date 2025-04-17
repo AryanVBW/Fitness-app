@@ -26,4 +26,13 @@
         <item name="colorOnSecondary">@color/black</item>
         <item name="android:windowBackground">@color/white</item>
     </style>
+    <style name="CalendarDateTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    
+    <style name="CalendarWeekTextAppearance" parent="android:TextAppearance.Small">
+        <item name="android:textColor">#AAAAAA</item>
+        <item name="android:textSize">12sp</item>
+    </style>
 </resources>
