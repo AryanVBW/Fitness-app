@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitnesstracker.app-mergeDebugResources-29:/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "outputFile": "com.example.fitnesstracker.app-mergeDebugResources-37:/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/vivek-w/Desktop/fitness app/app/src/main/res/values-xxxhdpi/drawables.xml",

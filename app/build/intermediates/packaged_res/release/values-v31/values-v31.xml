@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oom_splash_icon_size">240.0dip</dimen>
+    <style name="PermissionRequestTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="SplashTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@color/background_color_non_empty</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

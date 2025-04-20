@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#222222">
+
+    <!-- Header with logo -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="16dp">
+        
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/logo"
+            android:layout_marginEnd="16dp" />
+            
+        <TextView
+            android:id="@+id/tvProgressTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CORE WORKOUT - PROGRESS"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:textSize="22sp" />
+    </LinearLayout>
+    
+    <!-- Runner image with overlay -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginBottom="16dp">
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/runing_girl"
+            android:scaleType="centerCrop"
+            android:alpha="0.7" />
+            
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KEEP PUSHING YOUR LIMITS"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:shadowColor="#000000"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="4" />
+    </FrameLayout>
+
+    <!-- Progress circle with improved design -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:cardCornerRadius="12dp"
+        app:cardBackgroundColor="#333333">
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+            
+            <!-- Circular progress indicator -->
+            <ImageView
+                android:id="@+id/progressCircle"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/progress_ring_placeholder"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="Progress Ring"
+                android:layout_marginBottom="16dp" />
+                
+            <TextView
+                android:id="@+id/tvCalories"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CALORIES TODAY"
+                android:textColor="#fff"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+                
+            <TextView
+                android:id="@+id/tvCaloriesValue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="890 / 1000 CAL"
+                android:textColor="#4CAF50"
+                android:textAlignment="center"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    
+    <!-- Stats cards -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp">
+
+        <!-- Workout calories card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="8dp"
+            app:cardCornerRadius="12dp"
+            app:cardBackgroundColor="#333333">
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="12dp"
+                android:gravity="center_horizontal">
+                
+                <TextView
+                    android:text="WORKOUT"
+                    android:textColor="#fff"
+                    android:textSize="14sp" />
+                    
+                <TextView
+                    android:text="45"
+                    android:textColor="#FF5722"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+                    
+                <TextView
+                    android:text="calories"
+                    android:textColor="#CCCCCC"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        
+        <!-- Daily average card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="4dp"
+            android:layout_marginEnd="4dp"
+            app:cardCornerRadius="12dp"
+            app:cardBackgroundColor="#333333">
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="12dp"
+                android:gravity="center_horizontal">
+                
+                <TextView
+                    android:text="DAILY AVG"
+                    android:textColor="#fff"
+                    android:textSize="14sp" />
+                    
+                <TextView
+                    android:text="179"
+                    android:textColor="#2196F3"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+                    
+                <TextView
+                    android:text="calories"
+                    android:textColor="#CCCCCC"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        
+        <!-- Steps calories card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            app:cardCornerRadius="12dp"
+            app:cardBackgroundColor="#333333">
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="12dp"
+                android:gravity="center_horizontal">
+                
+                <TextView
+                    android:text="STEPS"
+                    android:textColor="#fff"
+                    android:textSize="14sp" />
+                    
+                <TextView
+                    android:text="1.72"
+                    android:textColor="#9C27B0"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+                    
+                <TextView
+                    android:text="cal/step"
+                    android:textColor="#CCCCCC"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</LinearLayout>

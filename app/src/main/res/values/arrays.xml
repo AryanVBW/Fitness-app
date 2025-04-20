@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Rest Timer Options -->
+    <string-array name="rest_timer_options">
+        <item>30 seconds</item>
+        <item>45 seconds</item>
+        <item>60 seconds</item>
+        <item>90 seconds</item>
+        <item>120 seconds</item>
+        <item>180 seconds</item>
+    </string-array>
+    
+    <string-array name="rest_timer_values">
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>180</item>
+    </string-array>
+    
+    <!-- Calorie Goal Types -->
+    <string-array name="calorie_goal_types">
+        <item>Weight Loss</item>
+        <item>Maintenance</item>
+        <item>Muscle Gain</item>
+        <item>Custom</item>
+    </string-array>
+    
+    <string-array name="calorie_goal_values">
+        <item>deficit</item>
+        <item>maintenance</item>
+        <item>surplus</item>
+        <item>custom</item>
+    </string-array>
+</resources>

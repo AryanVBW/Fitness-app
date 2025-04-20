@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/WorkoutCardStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_large"
+        android:background="@drawable/selectable_item_background">
+
+        <ImageView
+            android:id="@+id/workout_category_icon"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:padding="8dp"
+            android:background="@drawable/circle_bg_white"
+            android:contentDescription="Workout type icon" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="@dimen/margin_large"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/workout_category_title"
+                style="@style/HeaderTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/workout_category_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_medium"
+                android:textColor="@color/fitness_text_secondary" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/workout_category_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/text_size_small"
+                    android:textStyle="bold"
+                    android:textColor="@color/fitness_primary" />
+
+                <TextView
+                    android:id="@+id/workout_category_difficulty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/margin_large"
+                    android:textSize="@dimen/text_size_small"
+                    android:textStyle="bold"
+                    android:textColor="@color/fitness_accent" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@android:drawable/ic_menu_more"
+            android:tint="@color/fitness_text_secondary"
+            android:contentDescription="More options" />
+            
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

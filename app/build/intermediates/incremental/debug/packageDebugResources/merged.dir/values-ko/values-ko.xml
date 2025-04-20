@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">이 앱을 지원하는 브라우저 선택:</string>
+    <string name="choose_host_browser_dialog_quit">닫기</string>
+    <string name="choose_host_browser_dialog_title">%1$s을(를) 사용하려면 웹브라우저가 필요함</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+지원되지 않음"</string>
+    <string name="install_host_browser_dialog_install_button">설치</string>
+    <string name="install_host_browser_dialog_title">%1$s을(를) 사용하려면 필요한 앱:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">사이트 설정을 열려면 %1$s을(를) 업데이트하거나 다시 설치하세요.</string>
+    <string name="notification_channel_name">일반</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">사이트 설정</string>
+    <string name="site_settings_short_label">사이트 설정</string>
+</resources>

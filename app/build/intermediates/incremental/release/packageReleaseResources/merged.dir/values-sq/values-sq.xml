@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Zgjidh një shfletues që mbështet këtë aplikacion:</string>
+    <string name="choose_host_browser_dialog_quit">MBYLL</string>
+    <string name="choose_host_browser_dialog_title">%1$s kërkon një shfletues uebi</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+Nuk mbështetet"</string>
+    <string name="install_host_browser_dialog_install_button">INSTALO</string>
+    <string name="install_host_browser_dialog_title">%1$s kërkon aplikacionin e mëposhtëm:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">Për të hapur cilësimet, përditëso ose riinstalo %1$s</string>
+    <string name="notification_channel_name">Të përgjithshme</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">Cilësimet e sajtit</string>
+    <string name="site_settings_short_label">Cilësimet e sajtit</string>
+</resources>

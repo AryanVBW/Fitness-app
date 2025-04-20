@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.fitnesstracker.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "outputFile": "com.example.fitnesstracker.app-mergeDebugResources-37:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/vivek-w/.gradle/caches/8.10/transforms/d6e907c7b683018873e123f23d055136/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

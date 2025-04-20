@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Original strings -->
     <string name="choose_host_browser">Choose a browser that supports this app:</string>
     <string name="choose_host_browser_dialog_quit">CLOSE</string>
     <string name="choose_host_browser_dialog_title">%1$s requires a web browser</string>
@@ -7,10 +8,8 @@
 Unsupported"</string>
     <string name="install_host_browser_dialog_install_button">INSTALL</string>
     <string name="install_host_browser_dialog_title">%1$s requires the following app:</string>
-    <string name="name">CORE Workout</string>
     <string name="no_support_for_launch_settings">To open site settings, update or reinstall %1$s</string>
     <string name="notification_channel_name">General</string>
-    <string name="short_name">CORE Workout</string>
     <string name="shortcut_1_name">Shortcut 1</string>
     <string name="shortcut_1_short_name">Shortcut 1</string>
     <string name="shortcut_2_name">Shortcut 2</string>
@@ -21,4 +20,120 @@ Unsupported"</string>
     <string name="shortcut_4_short_name">Shortcut 4</string>
     <string name="site_settings_long_label">Site settings</string>
     <string name="site_settings_short_label">Site settings</string>
+    
+    <!-- App navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_diet">Nutrition</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Workout categories -->
+    <string name="workout_category_strength">Strength Training</string>
+    <string name="workout_category_cardio">Cardio</string>
+    <string name="workout_category_flexibility">Flexibility</string>
+    <string name="workout_category_hiit">HIIT</string>
+    <string name="workout_category_custom">Custom Workouts</string>
+    
+    <!-- Workout body parts -->
+    <string name="body_part_chest">Chest</string>
+    <string name="body_part_back">Back</string>
+    <string name="body_part_shoulders">Shoulders</string>
+    <string name="body_part_arms">Arms</string>
+    <string name="body_part_abs">Abs</string>
+    <string name="body_part_legs">Legs</string>
+    <string name="body_part_full_body">Full Body</string>
+    
+    <!-- Exercise names -->
+    <string name="exercise_push_ups">Push-ups</string>
+    <string name="exercise_bench_press">Bench Press</string>
+    <string name="exercise_incline_press">Incline Press</string>
+    <string name="exercise_cable_crossover">Cable Crossover</string>
+    <string name="exercise_chest_fly">Chest Fly</string>
+    <string name="exercise_running">Running</string>
+    <string name="exercise_cycling">Cycling</string>
+    <string name="exercise_jumping_jacks">Jumping Jacks</string>
+    <string name="exercise_squats">Squats</string>
+    <string name="exercise_lunges">Lunges</string>
+    <string name="exercise_deadlift">Deadlift</string>
+    <string name="exercise_plank">Plank</string>
+    <string name="exercise_crunches">Crunches</string>
+    
+    <!-- Diet plan categories -->
+    <string name="diet_plan_weight_loss">Weight Loss Plan</string>
+    <string name="diet_plan_muscle_gain">Muscle Building Plan</string>
+    <string name="diet_plan_maintenance">Maintenance Plan</string>
+    <string name="diet_plan_vegetarian">Vegetarian Plan</string>
+    <string name="diet_plan_vegan">Vegan Plan</string>
+    <string name="diet_plan_low_carb">Low Carb Plan</string>
+    <string name="diet_plan_keto">Keto Plan</string>
+    
+    <!-- Diet meal types -->
+    <string name="meal_breakfast">Breakfast</string>
+    <string name="meal_lunch">Lunch</string>
+    <string name="meal_dinner">Dinner</string>
+    <string name="meal_snack">Snack</string>
+    <string name="meal_pre_workout">Pre-Workout</string>
+    <string name="meal_post_workout">Post-Workout</string>
+    
+    <!-- Progress tracking -->
+    <string name="progress_weight">Weight</string>
+    <string name="progress_body_fat">Body Fat</string>
+    <string name="progress_calories">Calories</string>
+    <string name="progress_workouts_completed">Workouts Completed</string>
+    <string name="progress_workout_streak">Workout Streak</string>
+    <string name="progress_personal_records">Personal Records</string>
+    
+    <!-- Achievement messages -->
+    <string name="achievement_first_workout">First Workout Complete!</string>
+    <string name="achievement_streak_week">7-Day Streak! Keep going!</string>
+    <string name="achievement_streak_month">30-Day Streak! Incredible dedication!</string>
+    <string name="achievement_weight_milestone">Weight Milestone Reached!</string>
+    <string name="achievement_strength_gain">Strength Gain Achievement!</string>
+    
+    <!-- User profile -->
+    <string name="profile_personal_info">Personal Information</string>
+    <string name="profile_fitness_goals">Fitness Goals</string>
+    <string name="profile_settings">Settings</string>
+    <string name="profile_notification_settings">Notification Settings</string>
+    <string name="profile_privacy_settings">Privacy Settings</string>
+    
+    <!-- Action buttons -->
+    <string name="action_start_workout">Start Workout</string>
+    <string name="action_complete_workout">Complete</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    
+    <!-- New strings -->
+    <string name="app_name">Fitness Tracker</string>
+    <string name="name">Fitness Tracker</string>
+    <string name="steps">Steps</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="statistics">Statistics</string>
+    <string name="calories">Calories</string>
+    <string name="water">Water</string>
+    <string name="personal_stats">Personal Stats</string>
+    <string name="fitness_goals">Fitness Goals</string>
+    <string name="achievements">Achievements</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="bmi">BMI</string>
+    <string name="workout_examples">Workout Examples</string>
+    <string name="exercise_steps">Exercise Steps</string>
+    <string name="workout_image_description">Workout example image</string>
+    <string name="workout_library">Workout Library</string>
+    <string name="stat_icon">Stat Icon</string>
+    <string name="progress_steps">Progress Steps</string>
+    
+    <!-- Workout details -->
+    <string name="workout_duration_format">Duration: %d minutes</string>
+    <string name="workout_difficulty_format">Difficulty: %s</string>
+    <string name="workout_sets_format">Sets: %d</string>
+    <string name="workout_reps_format">Reps: %d</string>
+    <string name="workout_time_format">Time: %d seconds</string>
 </resources>

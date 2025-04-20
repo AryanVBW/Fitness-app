@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fitness_background_light">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_large">
+
+        <!-- Daily Summary Card -->
+        <androidx.cardview.widget.CardView
+            style="@style/WorkoutCardStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_large">
+
+                <TextView
+                    style="@style/HeaderTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Daily Nutrition Summary" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_medium"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Calories"
+                            android:textColor="@color/fitness_text_secondary"
+                            android:textSize="@dimen/text_size_small" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/nutrition_calories_consumed"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="1200"
+                                android:textColor="@color/fitness_primary"
+                                android:textSize="@dimen/text_size_heading3"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=" / "
+                                android:textSize="@dimen/text_size_medium" />
+
+                            <TextView
+                                android:id="@+id/nutrition_calories_goal"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="2000"
+                                android:textColor="@color/fitness_text_secondary"
+                                android:textSize="@dimen/text_size_medium" />
+                        </LinearLayout>
+
+                        <ProgressBar
+                            android:id="@+id/nutrition_calories_progress"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/workout_progress_height"
+                            android:layout_marginTop="@dimen/margin_small"
+                            android:progressDrawable="@drawable/progress_bar_gradient"
+                            android:progress="60" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:layout_marginStart="@dimen/margin_large">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Water"
+                            android:textColor="@color/fitness_text_secondary"
+                            android:textSize="@dimen/text_size_small" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/nutrition_water_consumed"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="4"
+                                android:textColor="@color/fitness_blue"
+                                android:textSize="@dimen/text_size_heading3"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=" / "
+                                android:textSize="@dimen/text_size_medium" />
+
+                            <TextView
+                                android:id="@+id/nutrition_water_goal"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="8"
+                                android:textColor="@color/fitness_text_secondary"
+                                android:textSize="@dimen/text_size_medium" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=" cups"
+                                android:textColor="@color/fitness_text_secondary"
+                                android:textSize="@dimen/text_size_small" />
+                        </LinearLayout>
+
+                        <ProgressBar
+                            android:id="@+id/nutrition_water_progress"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/workout_progress_height"
+                            android:layout_marginTop="@dimen/margin_small"
+                            android:progressDrawable="@drawable/progress_bar_gradient"
+                            android:progress="50" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_large"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Protein"
+                            android:textColor="@color/fitness_text_secondary"
+                            android:textSize="@dimen/text_size_small" />
+
+                        <TextView
+                            android:id="@+id/nutrition_daily_protein"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="65g"
+                            android:textColor="@color/fitness_blue_dark"
+                            android:textSize="@dimen/text_size_large"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Carbs"
+                            android:textColor="@color/fitness_text_secondary"
+                            android:textSize="@dimen/text_size_small" />
+
+                        <TextView
+                            android:id="@+id/nutrition_daily_carbs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="150g"
+                            android:textColor="@color/fitness_yellow"
+                            android:textSize="@dimen/text_size_large"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Fat"
+                            android:textColor="@color/fitness_text_secondary"
+                            android:textSize="@dimen/text_size_small" />
+
+                        <TextView
+                            android:id="@+id/nutrition_daily_fat"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="45g"
+                            android:textColor="@color/fitness_red"
+                            android:textSize="@dimen/text_size_large"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Meal Types Section -->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_large"
+            android:text="Today's Meals" />
+
+        <!-- Meal Type RecyclerView -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/nutrition_meals_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layoutAnimation="@anim/layout_animation_from_bottom" />
+
+        <!-- Nutrition Tips Section -->
+        <TextView
+            style="@style/HeaderTextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_large"
+            android:text="Nutrition Tips" />
+
+        <androidx.cardview.widget.CardView
+            style="@style/DietCardStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_large">
+
+                <TextView
+                    android:id="@+id/nutrition_tip_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hydration Matters"
+                    android:textColor="@color/fitness_text_primary"
+                    android:textSize="@dimen/text_size_large"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/nutrition_tip_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_small"
+                    android:text="Staying properly hydrated helps maximize your workout performance and recovery. Try to drink at least 8 cups of water daily."
+                    android:textColor="@color/fitness_text_secondary" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Action Button -->
+        <Button
+            android:id="@+id/nutrition_add_meal_button"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/margin_large"
+            android:background="@drawable/button_gradient_primary"
+            android:stateListAnimator="@drawable/button_state_animator"
+            android:text="Add Today's Meal"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+</ScrollView>

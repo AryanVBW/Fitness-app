@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_small"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_medium">
+
+        <TextView
+            android:id="@+id/workout_day_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Day 1: Upper Body"
+            android:textColor="@color/fitness_text_primary"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/workout_day_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:text="Focus on chest, shoulders, and triceps"
+            android:textColor="@color/fitness_text_secondary"
+            android:textSize="@dimen/text_size_medium" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginVertical="@dimen/margin_medium"
+            android:background="@color/fitness_divider" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/workout_exercises_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_medium"
+            android:gravity="end"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/edit_workout_day_button"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:layout_marginEnd="@dimen/margin_medium"
+                android:background="@drawable/button_outline"
+                android:paddingHorizontal="@dimen/padding_medium"
+                android:text="Edit"
+                android:textColor="@color/fitness_primary"
+                android:textSize="@dimen/text_size_small" />
+
+            <Button
+                android:id="@+id/start_workout_day_button"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:background="@drawable/button_gradient_primary"
+                android:paddingHorizontal="@dimen/padding_medium"
+                android:stateListAnimator="@drawable/button_state_animator"
+                android:text="Start"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_small" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

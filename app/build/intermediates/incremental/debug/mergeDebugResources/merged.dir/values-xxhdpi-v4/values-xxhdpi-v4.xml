@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="shortcut_1_icon" type="drawable">false</item>
+    <item name="shortcut_2_icon" type="drawable">false</item>
+    <item name="shortcut_3_icon" type="drawable">false</item>
+    <item name="shortcut_4_icon" type="drawable">false</item>
+</resources>

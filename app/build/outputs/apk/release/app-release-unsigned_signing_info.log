@@ -1,0 +1,17 @@
+############################################################
+# APK Signing Information (Generated Automatically)
+# Generated on: 2025-04-20T17:48:53.485674
+# Associated APK: app-release-unsigned.apk
+#
+# 🚨🚨🚨 SECURITY WARNING 🚨🚨🚨
+# This file contains plain text passwords!
+# Keep this file and the keystore extremely secure.
+# Do not commit to version control or share publicly.
+# This auto-generation method is NOT recommended for production.
+############################################################
+
+Keystore File: app-release-unsigned_generated.keystore
+Keystore Path: /Users/vivek-w/Desktop/fitness app/app/build/outputs/apk/release/app-release-unsigned_generated.keystore
+Alias: app-release-unsigned_key
+Keystore Password: h9-HY!tLF,&;6tLl
+Key Password: UYJho^5so8i2`4E6

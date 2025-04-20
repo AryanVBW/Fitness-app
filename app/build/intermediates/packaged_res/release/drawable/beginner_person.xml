@@ -1,0 +1,8 @@
+<!-- Placeholder vector drawable for beginner image -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="130dp"
+    android:viewportWidth="100"
+    android:viewportHeight="130">
+    <path android:fillColor="#C47C2B" android:pathData="M0,0h100v130h-100z"/>
+</vector>

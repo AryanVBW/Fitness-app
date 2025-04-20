@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/diet_background"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"> xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -42,6 +52,43 @@
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:layout_marginStart="12dp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Diet Info Card -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/dietInfoCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="12dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:cardBackgroundColor="#FFEB3B"
+        app:layout_constraintTop_toBottomOf="@id/titleCardView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="16dp">
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/diet_icon"
+                android:tint="#E91E63" />
+            <TextView
+                android:id="@+id/tvDietInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A balanced diet is key to fitness! Explore our diet plans and tips to fuel your workouts, boost recovery, and maintain a healthy lifestyle. Choose from vegetarian, low-carb, and balanced nutrition plans."
+                android:textColor="#333333"
+                android:textSize="15sp"
+                android:layout_marginStart="12dp"
+                android:layout_marginEnd="8dp"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -348,3 +395,5 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

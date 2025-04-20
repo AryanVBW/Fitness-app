@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.fitnesstracker.app-mergeReleaseResources-37:/values-en-rXA/values-en-rXA.xml",
+            "map": [
+                {
+                    "source": "/Users/vivek-w/Desktop/fitness app/app/src/main/res/values-en-rXA/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,180,252,367,463,548,669,716,865,933,985,1040,1101,1156,1217,1272,1333,1388,1449,1526",
+                        "endColumns": "124,71,114,95,84,120,46,148,67,51,54,60,54,60,54,60,54,60,76,77",
+                        "endOffsets": "175,247,362,458,543,664,711,860,928,980,1035,1096,1151,1212,1267,1328,1383,1444,1521,1599"
+                    }
+                }
+            ]
+        }
+    ]
+}

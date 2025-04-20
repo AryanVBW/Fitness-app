@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <PreferenceCategory android:title="Workout Preferences">
+        <SwitchPreference
+            android:key="enable_workout_reminders"
+            android:title="Workout Reminders"
+            android:summary="Get notifications for scheduled workouts"
+            android:defaultValue="true" />
+            
+        <ListPreference
+            android:key="rest_timer_duration"
+            android:title="Rest Timer"
+            android:summary="Set default rest time between exercises"
+            android:entries="@array/rest_timer_options"
+            android:entryValues="@array/rest_timer_values"
+            android:defaultValue="60" />
+            
+        <SwitchPreference
+            android:key="play_sound_cues"
+            android:title="Sound Cues"
+            android:summary="Play audio cues during workouts"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="Diet Tracking">
+        <SwitchPreference
+            android:key="enable_meal_reminders"
+            android:title="Meal Reminders"
+            android:summary="Get notifications for scheduled meals"
+            android:defaultValue="true" />
+            
+        <ListPreference
+            android:key="calorie_goal_type"
+            android:title="Calorie Goal Type"
+            android:summary="Set your calorie goal strategy"
+            android:entries="@array/calorie_goal_types"
+            android:entryValues="@array/calorie_goal_values"
+            android:defaultValue="maintenance" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="App Settings">
+        <SwitchPreference
+            android:key="dark_mode"
+            android:title="Dark Mode"
+            android:summary="Enable dark theme for the app"
+            android:defaultValue="false" />
+            
+        <SwitchPreference
+            android:key="metric_units"
+            android:title="Use Metric Units"
+            android:summary="Display weights in kg and distances in km"
+            android:defaultValue="true" />
+            
+        <Preference
+            android:key="clear_data"
+            android:title="Clear App Data"
+            android:summary="Reset all app data and preferences" />
+    </PreferenceCategory>
+    
+</PreferenceScreen>

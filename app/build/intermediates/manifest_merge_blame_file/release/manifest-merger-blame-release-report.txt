@@ -1,0 +1,227 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fitnesstracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Step Counter Permissions -->
+12    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+12-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.BODY_SENSORS" />
+13-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:6:5-71
+13-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:6:22-68
+14    <uses-permission android:name="android.permission.BODY_SENSORS_BACKGROUND" />
+14-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:7:5-82
+14-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:7:22-79
+15
+16    <!-- Notification Permissions -->
+17    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+17-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:10:5-77
+17-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:10:22-74
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:11:5-77
+18-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:11:22-74
+19    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+19-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:12:5-79
+19-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:12:22-76
+20    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
+20-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:13:5-74
+20-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:13:22-71
+21
+22    <!-- Internet Permissions -->
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:16:5-67
+23-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:16:22-64
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:17:5-79
+24-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:17:22-76
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] /Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.fitnesstracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] /Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] /Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.fitnesstracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] /Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] /Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:19:5-74:19
+33        android:allowBackup="true"
+33-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:20:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] /Users/vivek-w/.gradle/caches/8.10/transforms/448229d016c994b93f2927e1c0a87521/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+35        android:extractNativeLibs="false"
+36        android:icon="@drawable/logo"
+36-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:21:9-38
+37        android:label="@string/name"
+37-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:22:9-37
+38        android:theme="@style/Theme.FitnessTracker" >
+38-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:23:9-52
+39        <activity
+39-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:25:9-33:20
+40            android:name="com.example.fitnesstracker.MainActivity"
+40-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:26:13-41
+41            android:exported="true"
+41-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:27:13-36
+42            android:screenOrientation="portrait" >
+42-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:28:13-49
+43            <intent-filter>
+43-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:29:13-32:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:30:17-69
+44-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:30:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:31:17-77
+46-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:31:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:35:9-38:52
+50            android:name="com.example.fitnesstracker.ProfileActivity"
+50-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:36:13-44
+51            android:exported="false"
+51-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:37:13-37
+52            android:screenOrientation="portrait" />
+52-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:38:13-49
+53        <activity
+53-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:40:9-43:52
+54            android:name="com.example.fitnesstracker.WorkoutDetailActivity"
+54-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:41:13-50
+55            android:exported="false"
+55-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:42:13-37
+56            android:screenOrientation="portrait" />
+56-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:43:13-49
+57        <activity
+57-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:45:9-48:52
+58            android:name="com.example.fitnesstracker.WorkoutGuideActivity"
+58-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:46:13-49
+59            android:exported="false"
+59-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:47:13-37
+60            android:screenOrientation="portrait" />
+60-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:48:13-49
+61        <activity
+61-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:50:9-53:52
+62            android:name="com.example.fitnesstracker.LibraryActivity"
+62-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:51:13-44
+63            android:exported="false"
+63-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:52:13-37
+64            android:screenOrientation="portrait" />
+64-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:53:13-49
+65        <activity
+65-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:55:9-58:52
+66            android:name="com.example.fitnesstracker.DietActivity"
+66-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:56:13-41
+67            android:exported="false"
+67-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:57:13-37
+68            android:screenOrientation="portrait" />
+68-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:58:13-49
+69        <activity
+69-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:60:9-63:52
+70            android:name="com.example.fitnesstracker.ReportActivity"
+70-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:61:13-43
+71            android:exported="false"
+71-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:62:13-37
+72            android:screenOrientation="portrait" />
+72-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:63:13-49
+73        <activity
+73-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:65:9-68:52
+74            android:name="com.example.fitnesstracker.WorkoutSessionActivity"
+74-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:66:13-51
+75            android:exported="false"
+75-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:67:13-37
+76            android:screenOrientation="portrait" />
+76-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:68:13-49
+77
+78        <receiver
+78-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:70:9-72:40
+79            android:name="com.example.fitnesstracker.WorkoutReminderReceiver"
+79-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:71:13-52
+80            android:exported="false" />
+80-->/Users/vivek-w/Desktop/fitness app/app/src/main/AndroidManifest.xml:72:13-37
+81
+82        <service
+82-->[androidx.room:room-runtime:2.6.1] /Users/vivek-w/.gradle/caches/8.10/transforms/226a277cf61a52cf4eb1dd902430b35d/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+83            android:name="androidx.room.MultiInstanceInvalidationService"
+83-->[androidx.room:room-runtime:2.6.1] /Users/vivek-w/.gradle/caches/8.10/transforms/226a277cf61a52cf4eb1dd902430b35d/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+84            android:directBootAware="true"
+84-->[androidx.room:room-runtime:2.6.1] /Users/vivek-w/.gradle/caches/8.10/transforms/226a277cf61a52cf4eb1dd902430b35d/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+85            android:exported="false" />
+85-->[androidx.room:room-runtime:2.6.1] /Users/vivek-w/.gradle/caches/8.10/transforms/226a277cf61a52cf4eb1dd902430b35d/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+86
+87        <provider
+87-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+88            android:name="androidx.startup.InitializationProvider"
+88-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+89            android:authorities="com.example.fitnesstracker.androidx-startup"
+89-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+90            android:exported="false" >
+90-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+91            <meta-data
+91-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+92-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+93                android:value="androidx.startup" />
+93-->[androidx.emoji2:emoji2:1.2.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0c2427f0d371981558d33c693ecc63ac/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+94            <meta-data
+94-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0bcad4c91e6f90c1dba143dbb2f5ec0b/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+95                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0bcad4c91e6f90c1dba143dbb2f5ec0b/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+96                android:value="androidx.startup" />
+96-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/vivek-w/.gradle/caches/8.10/transforms/0bcad4c91e6f90c1dba143dbb2f5ec0b/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+97            <meta-data
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+98                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+99                android:value="androidx.startup" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+100        </provider>
+101
+102        <receiver
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+103            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+104            android:directBootAware="false"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+105            android:enabled="true"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+106            android:exported="true"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+107            android:permission="android.permission.DUMP" >
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+108            <intent-filter>
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+109                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+110            </intent-filter>
+111            <intent-filter>
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+112                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+113            </intent-filter>
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+115                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+116            </intent-filter>
+117            <intent-filter>
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+118                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/vivek-w/.gradle/caches/8.10/transforms/94cf6b5174593dfd26fcdd194e4ded75/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+119            </intent-filter>
+120        </receiver>
+121    </application>
+122
+123</manifest>

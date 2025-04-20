@@ -1,0 +1,734 @@
+[
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_level_card_advance.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/level_card_advance.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_nutrition.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_nutrition.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_tips.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_tips.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_bench_press.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/bench_press.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_library.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_library.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_error_workout.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/error_workout.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_scale_in.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/scale_in.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_sleep.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_sleep.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_distance.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_distance.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_weightlifting.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_weightlifting.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_level_card_bg_advance.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/level_card_bg_advance.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_achievement.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_achievement.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_gradient_card_bg.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/gradient_card_bg.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_recovery.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_recovery.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_pushups.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/pushups.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_difficulty.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_difficulty.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xxhdpi_notification_badge.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xxhdpi/notification_badge.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_workout_day.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_workout_day.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_chest_fly.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/chest_fly.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_man_dumbal.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/man_dumbal.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_calories.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_calories.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_workout_placeholder.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/workout_placeholder.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_selectable_item_background.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/selectable_item_background.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xxxhdpi_splash_icon.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xxxhdpi/splash_icon.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_logo.jpg.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/logo.jpg"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_nutrition_tracking.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_nutrition_tracking.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_play.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/xml_preferences.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_default_profile.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/default_profile.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_home.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_notifications.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_level_card_intermediate.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/level_card_intermediate.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_diet_icon.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/diet_icon.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_steps.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_steps.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_check.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_chest_workout_header.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/chest_workout_header.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_card_enter.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/card_enter.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_workout_hiit.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/workout_hiit.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/xml_shortcuts.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_nutrition_smoothie.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_nutrition_smoothie.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_running.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_running.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xhdpi_notification_badge.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xhdpi/notification_badge.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_item_animation_from_bottom.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/item_animation_from_bottom.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_beginner_person.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/beginner_person.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_dialog_diet_plan.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/dialog_diet_plan.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_calories.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_calories.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_diet.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_diet.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-mdpi_ic_site_settings.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-mdpi/ic_site_settings.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_nutrition_fruits.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_nutrition_fruits.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_white.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_white.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-mdpi_notification_badge.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-mdpi/notification_badge.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/mipmap-nodpi_splash_icon_xxxhdpi.jpg.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/mipmap-nodpi/splash_icon_xxxhdpi.jpg"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_workout_flexibility.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_workout_flexibility.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_workout_plan_generator.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_workout_plan_generator.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_activity.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_activity.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise_chest_fly.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise_chest_fly.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_diat1.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/diat1.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_achievement_locked.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_achievement_locked.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_workout_category.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_workout_category.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_timer.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_button_state_animator.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/button_state_animator.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_workout_guide.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_workout_guide.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_chest.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/chest.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_app_logo.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/app_logo.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_meals.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_meals.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_slide_in_right.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_library.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_library.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_pushups_detail.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_pushups_detail.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_library_category.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_library_category.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_active.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_active.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/mipmap-nodpi_app_icon_xhdpi.jpg.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/mipmap-nodpi/app_icon_xhdpi.jpg"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_lock.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_cable_crossover.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/cable_crossover.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_focus_area.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_focus_area.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_pulse.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/pulse.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circular_progress.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circular_progress.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_nutrition_meal.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_nutrition_meal.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_achievement.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_achievement.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_placeholder_workout.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/placeholder_workout.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_button_gradient_primary.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/button_gradient_primary.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_profile.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_report.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_report.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_plan.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_plan.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_diet.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/diet.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_chest_workout_detail.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_chest_workout_detail.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_meal.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_meal.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_gradient_overlay.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/gradient_overlay.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_splash_background.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_level.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_level.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-hdpi_notification_badge.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-hdpi/notification_badge.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-hdpi_ic_site_settings.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-hdpi/ic_site_settings.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_heart_rate.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_heart_rate.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_chest_workout.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_chest_workout.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_points.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_points.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_nutrition_protein.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_nutrition_protein.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_error.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_meal_placeholder.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/meal_placeholder.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_diet3.jpg.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/diet3.jpg"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_workout_background.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/workout_background.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_girl_pushup.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/girl_pushup.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_nutrition_meal.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_nutrition_meal.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_progress.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_progress.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_progress_ring_placeholder.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/progress_ring_placeholder.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/font_roboto_medium.ttf.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_slide_in_bottom.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_meal.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_achievement_unlocked.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_achievement_unlocked.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xxxhdpi_notification_badge.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xxxhdpi/notification_badge.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_host_browser_list_item.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/host_browser_list_item.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_level_card_bg_intermediate.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/level_card_bg_intermediate.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_intermediate_person.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/intermediate_person.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_diet_background.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/diet_background.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_progress_bar_gradient.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/progress_bar_gradient.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_pushup.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/pushup.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_exercise_plank.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_exercise_plank.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_level_card_bg_beginner.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/level_card_bg_beginner.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_workout_exercise.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_workout_exercise.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_levels.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_levels.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_level_card_beginner.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/level_card_beginner.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_webapp_splash_screen_large.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/webapp_splash_screen_large.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_webapp_splash_screen_no_icon.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/webapp_splash_screen_no_icon.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_runing_girl.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/runing_girl.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xxxhdpi_ic_site_settings.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xxxhdpi/ic_site_settings.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_diet.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_diet.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_fade_in.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_progress_animation.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/progress_animation.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_cardio.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/cardio.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_workout_icon.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/workout_icon.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_main_new.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_main_new.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_distance.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_distance.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_profile.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_circle_bg_activity.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/circle_bg_activity.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-mdpi_splash_icon.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-mdpi/splash_icon.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_man.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/man.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_workout_detail.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_workout_detail.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_stat.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_stat.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xxhdpi_ic_site_settings.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xxhdpi/ic_site_settings.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout-v31_splash_screen_view.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout-v31/splash_screen_view.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_edit.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/font_roboto_bold.ttf.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise_incline_press.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise_incline_press.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-hdpi_last_resort_runtime_host_logo.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-hdpi/last_resort_runtime_host_logo.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_fitness.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_fitness.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_slide_out_left.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_bottom_navigation.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/menu_bottom_navigation.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable-xhdpi_ic_site_settings.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable-xhdpi/ic_site_settings.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_button_outline.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/button_outline.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_workout_hiit.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_workout_hiit.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_activity_fade_in.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/activity_fade_in.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_workout_session.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_workout_session.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_workout_example.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_workout_example.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_stats.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_stats.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_report_icon.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/report_icon.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_achievement.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_achievement.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_workout.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_workout.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_activity_fade_out.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/activity_fade_out.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_steps.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_steps.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise_bench_press.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise_bench_press.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_workout_yoga.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_workout_yoga.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/font_roboto_regular.ttf.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_progress.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_progress.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_workout_core.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/workout_core.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_spotify.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_spotify.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_privacy.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_privacy.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_cardio_plan.png.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/cardio_plan.png"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise_step.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise_step.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise_pushups.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise_pushups.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_incline_press.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/incline_press.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_diet_plan.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_diet_plan.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_advance_person.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/advance_person.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_water.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_water.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_cardio_detail.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_cardio_detail.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_active.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_active.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/anim_layout_animation_from_bottom.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/anim/layout_animation_from_bottom.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_item_exercise_cable_crossover.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/item_exercise_cable_crossover.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/layout_activity_workout_library.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/layout/activity_workout_library.xml"
+    },
+    {
+        "merged": "com.example.fitnesstracker.app-merged_res-39:/drawable_ic_save.xml.flat",
+        "source": "com.example.fitnesstracker.app-main-40:/drawable/ic_save.xml"
+    }
+]

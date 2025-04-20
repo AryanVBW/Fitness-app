@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">ഈ ആപ്പിന് അനുയോജ്യമായ ബ്രൗസർ തിരഞ്ഞെടുക്കുക:</string>
+    <string name="choose_host_browser_dialog_quit">അടയ്‌ക്കുക</string>
+    <string name="choose_host_browser_dialog_title">%1$s ആപ്പിന് വെബ് ബ്രൗസർ ആവശ്യമാണ്</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+അനുയോജ്യമല്ല"</string>
+    <string name="install_host_browser_dialog_install_button">ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="install_host_browser_dialog_title">%1$s എന്നതിന് ഈ ആപ്പ് ആവശ്യമാണ്:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">സെെറ്റ് ക്രമീകരണം തുറക്കാൻ %1$s അപ്‌ഡേറ്റ് ചെയ്യുക അല്ലെങ്കിൽ വീണ്ടും ഇൻസ്‌റ്റാൾ ചെയ്യുക</string>
+    <string name="notification_channel_name">പൊതുവായ</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">സൈറ്റ് ക്രമീകരണങ്ങൾ</string>
+    <string name="site_settings_short_label">സൈറ്റ് ക്രമീകരണങ്ങൾ</string>
+</resources>

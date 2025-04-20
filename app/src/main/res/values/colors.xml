@@ -9,12 +9,73 @@
     <color name="webapp_grey_900">#ff202124</color>
     <color name="webapp_splash_title_light">@android:color/white</color>
     <color name="white_adaptive_ic_launcher_background">#ffffffff</color>
-    <color name="purple_500">#6200EE</color>
-    <color name="purple_700">#3700B3</color>
-    <color name="teal_200">#03DAC5</color>
-    <color name="teal_700">#018786</color>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
     <color name="green_500">#4CAF50</color>
     <color name="ic_launcher_background">#222222</color>
+    
+    <!-- Fitness theme colors -->
+    <color name="fitness_primary">#FF5722</color>
+    <color name="fitness_primary_dark">#E64A19</color>
+    <color name="fitness_primary_light">#FFCCBC</color>
+    <color name="fitness_accent">#03A9F4</color>
+    <color name="fitness_accent_dark">#0288D1</color>
+    <color name="fitness_accent_light">#B3E5FC</color>
+    <color name="fitness_blue">#42A5F5</color>
+    <color name="fitness_blue_dark">#1E88E5</color>
+    <color name="fitness_red">#EF5350</color>
+    <color name="fitness_green">#66BB6A</color>
+    <color name="fitness_yellow">#FFEE58</color>
+    <color name="fitness_purple">#AB47BC</color>
+    <color name="fitness_background_light">#F5F5F5</color>
+    <color name="fitness_text_primary">#212121</color>
+    <color name="fitness_text_secondary">#757575</color>
+    <color name="fitness_divider">#BDBDBD</color>
+    <color name="workout_card_background">#ECEFF1</color>
+    <color name="diet_card_background">#E8F5E9</color>
+    <color name="steps_progress">#29B6F6</color>
+    <color name="calories_progress">#FF7043</color>
+    <color name="weight_progress">#8D6E63</color>
+    
+    <!-- App theme colors -->
+    <color name="purple_primary">#8A2BE2</color>
+    <color name="purple_primary_dark">#6A1BC2</color>
+    <color name="purple_primary_light">#A45BE2</color>
+    
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="card_dark">#2D2D2D</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="card_background_secondary">#2A2A2A</color>
+    <color name="card_stroke">#444444</color>
+    
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#B3FFFFFF</color>
+    <color name="divider">#1FFFFFFF</color>
+    
+    <color name="bottom_nav_icon">#FFFFFF</color>
+    <color name="bottom_nav_text">#FFFFFF</color>
+    
+    <!-- Stats Colors -->
+    <color name="steps_color">#3F51B5</color>
+    <color name="calories_color">#E91E63</color>
+    <color name="distance_color">#4CAF50</color>
+    <color name="active_color">#FF9800</color>
+    <color name="gray">#808080</color>
+    
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#FF03DAC5</color>
+
+    <!-- Status colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="warning_yellow">#FFC107</color>
 </resources>

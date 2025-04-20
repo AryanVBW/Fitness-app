@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_host_browser">Энэ аппыг дэмждэг хөтөч сонгоно уу:</string>
+    <string name="choose_host_browser_dialog_quit">ХААХ</string>
+    <string name="choose_host_browser_dialog_title">%1$s ажиллахын тулд веб хөтөч шаардлагатай</string>
+    <string name="host_browser_item_not_supporting_webapks">"%1$s
+Дэмжигдээгүй"</string>
+    <string name="install_host_browser_dialog_install_button">СУУЛГАХ</string>
+    <string name="install_host_browser_dialog_title">%1$s-д дараах апп шаардлагатай:</string>
+    <string name="name">Core Strength</string>
+    <string name="no_support_for_launch_settings">Сайтын тохиргоог нээхийн тулд %1$s-г шинэчилж эсвэл дахин суулгана уу</string>
+    <string name="notification_channel_name">Ерөнхий</string>
+    <string name="short_name">Arise Aditya</string>
+    <string name="shortcut_1_name">Shortcut 1</string>
+    <string name="shortcut_1_short_name">Shortcut 1</string>
+    <string name="shortcut_2_name">Shortcut 2</string>
+    <string name="shortcut_2_short_name">Shortcut 2</string>
+    <string name="shortcut_3_name">Shortcut 3</string>
+    <string name="shortcut_3_short_name">Shortcut 3</string>
+    <string name="shortcut_4_name">Shortcut 4</string>
+    <string name="shortcut_4_short_name">Shortcut 4</string>
+    <string name="site_settings_long_label">Сайтын тохиргоо</string>
+    <string name="site_settings_short_label">Сайтын тохиргоо</string>
+</resources>
